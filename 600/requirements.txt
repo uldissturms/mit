@@ -1,7 +1,7 @@
 argh==0.26.2
 cycler==0.10.0
 matplotlib==2.1.0
-numpy==1.13.3
+numpy==1.22.0
 pathtools==0.1.2
 py==1.4.34
 pyparsing==2.2.0
